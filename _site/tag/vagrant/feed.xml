@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/tag/vagrant/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2019-05-12T06:26:28+02:00</updated>
+  <id>http://localhost:4000/tag/vagrant/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Statix Design | </title>
+  
+
+  
+    <subtitle>The professional publishing platform</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Install Vagrant on Windows 10</title>
+      <link href="http://localhost:4000/welcome" rel="alternate" type="text/html" title="Install Vagrant on Windows 10" />
+      <published>2019-05-11T12:00:00+02:00</published>
+      <updated>2019-05-11T12:00:00+02:00</updated>
+      <id>http://localhost:4000/welcome</id>
+      <content type="html" xml:base="http://localhost:4000/welcome">&lt;h3 id=&quot;there-are-a-few-things-that-you-should-know-up-front&quot;&gt;There are a few things that you should know up-front:&lt;/h3&gt;
+&lt;p&gt;If you wish to use VirtualBox on Windows, you must ensure that &lt;strong&gt;Hyper-V&lt;/strong&gt; is not enabled on Windows. You can turn off the feature by running this Powershell command:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Disable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-All&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;You can also disable it by going through the Windows system settings:&lt;/p&gt;
+
+&lt;p&gt;Right click on the Windows button and select ‘Apps and Features’.
+Select Turn Windows Features on or off.
+Unselect &lt;strong&gt;Hyper-V&lt;/strong&gt; and click &lt;strong&gt;OK&lt;/strong&gt;.
+You might have to reboot your machine for the changes to take effect. More information about Hyper-V can be read here.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>statixdesign</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Vagrant" />
+      
+
+      
+        <summary type="html">There are a few things that you should know up-front: If you wish to use VirtualBox on Windows, you must ensure that Hyper-V is not enabled on Windows. You can turn off the feature by running this Powershell command:</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
